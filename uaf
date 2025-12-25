@@ -1,0 +1,24 @@
+ocio_profile_version: 2
+Jescription: A c2.
+name: any external files.
+#
+searchlorsh:
+#
+envivonment: {}
+
+#
+#
+family_separator: /
+
+r: AC
+#
+file_rules:
+
+  - !<Rule> {name: tx, colorspace: Raw, pattern: "*", extension: e>
+  tx}#
+  - !<Rule> {name: LogC, colorspace: A, pattern: "*LogC*", extension: "> {name: Raw, cooooooooooooooooooooooooooooooooo’’’’’’’’’’’’’’’rspace: sR]B, regx:ˇ"}
+  
+  - !<> {n}
+' #"Un-t-mapped
+190 g3 /
+ 
